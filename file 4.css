@@ -10,9 +10,9 @@ body{
 }
 
 p.contact2{
-    background: black;
-    color: transparent;
-    -webkit-background-clip: text;
+  background: black;
+  color: transparent;
+  -webkit-background-clip: text;
 }
 
 .footer{
@@ -26,7 +26,7 @@ p.contact2{
         font-size: larger;
 }
 
-a:link {
+  a:link {
     color: green;
     background-color: transparent;
     text-decoration: none;

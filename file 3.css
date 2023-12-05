@@ -11,11 +11,12 @@ p.project2{
     body{
         background-color: #A89668;
 }
+
 h2.project1{
-    background-color: #2D5138;
-    padding: 20px;
-    text-align: center;
-    font-size: 30px;
+  background-color: #2D5138;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
 }
 
 dt{
