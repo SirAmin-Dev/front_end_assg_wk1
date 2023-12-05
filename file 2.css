@@ -1,0 +1,17 @@
+body{
+    background: lightblue;
+}
+h2.skill1{
+    background-color: royalblue;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+p.skill2{
+    background: lightslategray;
+    margin-inline-end: 260px;
+    font-size:15px;
+    padding: 1px;
+    display: inline;
+}
